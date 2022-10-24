@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Assigment_4_1
+build_property.ProjectDir = /Users/evil/Library/CloudStorage/GoogleDrive-Ernestoacardenas@icloud.com/My Drive/GitHub/MSSA_Assigments/Assigment_4-1/Assigment_4-1/

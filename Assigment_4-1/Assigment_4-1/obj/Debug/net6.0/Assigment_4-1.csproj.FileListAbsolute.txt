@@ -1,0 +1,15 @@
+/Users/evil/Library/CloudStorage/GoogleDrive-Ernestoacardenas@icloud.com/My Drive/GitHub/MSSA_Assigments/Assigment_4-1/Assigment_4-1/obj/Debug/net6.0/Assigment_4-1.csproj.AssemblyReference.cache
+/Users/evil/Library/CloudStorage/GoogleDrive-Ernestoacardenas@icloud.com/My Drive/GitHub/MSSA_Assigments/Assigment_4-1/Assigment_4-1/obj/Debug/net6.0/Assigment_4-1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/evil/Library/CloudStorage/GoogleDrive-Ernestoacardenas@icloud.com/My Drive/GitHub/MSSA_Assigments/Assigment_4-1/Assigment_4-1/obj/Debug/net6.0/Assigment_4-1.AssemblyInfoInputs.cache
+/Users/evil/Library/CloudStorage/GoogleDrive-Ernestoacardenas@icloud.com/My Drive/GitHub/MSSA_Assigments/Assigment_4-1/Assigment_4-1/obj/Debug/net6.0/Assigment_4-1.AssemblyInfo.cs
+/Users/evil/Library/CloudStorage/GoogleDrive-Ernestoacardenas@icloud.com/My Drive/GitHub/MSSA_Assigments/Assigment_4-1/Assigment_4-1/obj/Debug/net6.0/Assigment_4-1.csproj.CoreCompileInputs.cache
+/Users/evil/Library/CloudStorage/GoogleDrive-Ernestoacardenas@icloud.com/My Drive/GitHub/MSSA_Assigments/Assigment_4-1/Assigment_4-1/bin/Debug/net6.0/Assigment_4-1
+/Users/evil/Library/CloudStorage/GoogleDrive-Ernestoacardenas@icloud.com/My Drive/GitHub/MSSA_Assigments/Assigment_4-1/Assigment_4-1/bin/Debug/net6.0/Assigment_4-1.deps.json
+/Users/evil/Library/CloudStorage/GoogleDrive-Ernestoacardenas@icloud.com/My Drive/GitHub/MSSA_Assigments/Assigment_4-1/Assigment_4-1/bin/Debug/net6.0/Assigment_4-1.runtimeconfig.json
+/Users/evil/Library/CloudStorage/GoogleDrive-Ernestoacardenas@icloud.com/My Drive/GitHub/MSSA_Assigments/Assigment_4-1/Assigment_4-1/bin/Debug/net6.0/Assigment_4-1.dll
+/Users/evil/Library/CloudStorage/GoogleDrive-Ernestoacardenas@icloud.com/My Drive/GitHub/MSSA_Assigments/Assigment_4-1/Assigment_4-1/bin/Debug/net6.0/Assigment_4-1.pdb
+/Users/evil/Library/CloudStorage/GoogleDrive-Ernestoacardenas@icloud.com/My Drive/GitHub/MSSA_Assigments/Assigment_4-1/Assigment_4-1/obj/Debug/net6.0/Assigment_4-1.dll
+/Users/evil/Library/CloudStorage/GoogleDrive-Ernestoacardenas@icloud.com/My Drive/GitHub/MSSA_Assigments/Assigment_4-1/Assigment_4-1/obj/Debug/net6.0/refint/Assigment_4-1.dll
+/Users/evil/Library/CloudStorage/GoogleDrive-Ernestoacardenas@icloud.com/My Drive/GitHub/MSSA_Assigments/Assigment_4-1/Assigment_4-1/obj/Debug/net6.0/Assigment_4-1.pdb
+/Users/evil/Library/CloudStorage/GoogleDrive-Ernestoacardenas@icloud.com/My Drive/GitHub/MSSA_Assigments/Assigment_4-1/Assigment_4-1/obj/Debug/net6.0/Assigment_4-1.genruntimeconfig.cache
+/Users/evil/Library/CloudStorage/GoogleDrive-Ernestoacardenas@icloud.com/My Drive/GitHub/MSSA_Assigments/Assigment_4-1/Assigment_4-1/obj/Debug/net6.0/ref/Assigment_4-1.dll
