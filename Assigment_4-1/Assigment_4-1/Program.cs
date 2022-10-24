@@ -6,6 +6,11 @@
         Console.WriteLine("-----------------------------------");
         ReturnEvenNumbersTask();
         Console.WriteLine("-----------------------------------");
+        YearisLeap();
+        Console.WriteLine("-----------------------------------");
+        ReverseString();
+; Console.WriteLine("-----------------------------------");
+
     }
 
     static void ReturnEvenNumbersTask()
@@ -43,4 +48,27 @@
         else
             Console.WriteLine("{0} is not a leap year.\n", leap_year);
     }
+
+    static void ReverseString()
+    {
+        
+
+        string originalString = ("Dudewheremychar");
+        Console.WriteLine(originalString);
+        Console.WriteLine("");
+        Console.WriteLine("-----------------------------------\n");
+
+        string reversedString = string.Empty;
+
+        for (int i = originalString.Length -1; i >= 0; i--)
+        {
+            reversedString += originalString[i];
+        }
+
+        Console.WriteLine(reversedString);
+               
+        }
+
+
+
 }
