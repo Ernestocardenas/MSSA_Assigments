@@ -9,7 +9,8 @@
         YearisLeap();
         Console.WriteLine("-----------------------------------");
         ReverseString();
-; Console.WriteLine("-----------------------------------");
+        Console.WriteLine("-----------------------------------");
+        SpaceCount();
 
     }
 
@@ -68,6 +69,25 @@
         Console.WriteLine(reversedString);
                
         }
+     static void SpaceCount()
+    {
+
+        string userInput;
+
+        Console.WriteLine("PLease enter a string: ");
+        userInput = Console.ReadLine();
+        Console.WriteLine("YOur string is: " + userInput);
+
+        int space = 0;
+
+        for (int i = 0; i < userInput.Length; i++)
+        {
+            if (userInput[i] == ' ')
+                space++;
+        }
+        Console.WriteLine("Spaces: " + space);
+
+    }
 
 
 
