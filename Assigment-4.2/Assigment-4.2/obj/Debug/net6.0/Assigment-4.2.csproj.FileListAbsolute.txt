@@ -1,0 +1,15 @@
+G:\My Drive\GitHub\MSSA-Assigments\Assigment-4.2\Assigment-4.2\bin\Debug\net6.0\Assigment-4.2.exe
+G:\My Drive\GitHub\MSSA-Assigments\Assigment-4.2\Assigment-4.2\bin\Debug\net6.0\Assigment-4.2.deps.json
+G:\My Drive\GitHub\MSSA-Assigments\Assigment-4.2\Assigment-4.2\bin\Debug\net6.0\Assigment-4.2.runtimeconfig.json
+G:\My Drive\GitHub\MSSA-Assigments\Assigment-4.2\Assigment-4.2\bin\Debug\net6.0\Assigment-4.2.dll
+G:\My Drive\GitHub\MSSA-Assigments\Assigment-4.2\Assigment-4.2\bin\Debug\net6.0\Assigment-4.2.pdb
+G:\My Drive\GitHub\MSSA-Assigments\Assigment-4.2\Assigment-4.2\obj\Debug\net6.0\Assigment-4.2.csproj.AssemblyReference.cache
+G:\My Drive\GitHub\MSSA-Assigments\Assigment-4.2\Assigment-4.2\obj\Debug\net6.0\Assigment-4.2.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\GitHub\MSSA-Assigments\Assigment-4.2\Assigment-4.2\obj\Debug\net6.0\Assigment-4.2.AssemblyInfoInputs.cache
+G:\My Drive\GitHub\MSSA-Assigments\Assigment-4.2\Assigment-4.2\obj\Debug\net6.0\Assigment-4.2.AssemblyInfo.cs
+G:\My Drive\GitHub\MSSA-Assigments\Assigment-4.2\Assigment-4.2\obj\Debug\net6.0\Assigment-4.2.csproj.CoreCompileInputs.cache
+G:\My Drive\GitHub\MSSA-Assigments\Assigment-4.2\Assigment-4.2\obj\Debug\net6.0\Assigment-4.2.dll
+G:\My Drive\GitHub\MSSA-Assigments\Assigment-4.2\Assigment-4.2\obj\Debug\net6.0\refint\Assigment-4.2.dll
+G:\My Drive\GitHub\MSSA-Assigments\Assigment-4.2\Assigment-4.2\obj\Debug\net6.0\Assigment-4.2.pdb
+G:\My Drive\GitHub\MSSA-Assigments\Assigment-4.2\Assigment-4.2\obj\Debug\net6.0\Assigment-4.2.genruntimeconfig.cache
+G:\My Drive\GitHub\MSSA-Assigments\Assigment-4.2\Assigment-4.2\obj\Debug\net6.0\ref\Assigment-4.2.dll
